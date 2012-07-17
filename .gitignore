@@ -1,5 +1,6 @@
 Debug/
 ipch/
+bin/
 *.sdf
 *.suo
 *.vcxproj.*
